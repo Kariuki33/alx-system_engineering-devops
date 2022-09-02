@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod --reference=0-iam_betty hello
+ quote> hello betty
