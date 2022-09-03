@@ -1,1 +1,1 @@
-Create a script that changes you user ID to betty
+Create a script that switches the current user to the user betty
