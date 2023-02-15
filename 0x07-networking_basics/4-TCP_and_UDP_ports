@@ -1,4 +1,3 @@
 #!/usr/bin/env bash
-# This script displays listening ports, showing the PID and name of the program to which each socket belongs
-
-sudo netstat -tulpn | awk '{if ($4 ~ /:.*/) print $4, $7}'
+#Script that displays all listening sockets
+netstat -lp
