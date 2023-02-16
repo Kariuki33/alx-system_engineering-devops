@@ -1,7 +1,7 @@
 0x06. Regular expression
 ========================
 
--   By Dev Nderitu
+-   By Dan Kariuki
 -   Weight: 1
 
 
