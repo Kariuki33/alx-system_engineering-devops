@@ -1,1 +1,3 @@
-Write a command that lists all the files and directories of the current directory, separated by commas
+# alx-system_engineering-devops
+## Description
+This repository contains all system engineering devops projects as written by Dan Kariuki.
